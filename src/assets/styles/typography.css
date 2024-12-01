@@ -1,0 +1,46 @@
+.pointer {
+  cursor: pointer;
+}
+
+.boldlvl1 {
+  font-weight: 100;
+}
+.boldlvl2 {
+  font-weight: 200;
+}
+.boldlvl3 {
+  font-weight: 300;
+}
+.boldlvl4 {
+  font-weight: 400;
+}
+.boldlvl5 {
+  font-weight: 500;
+}
+.boldlvl6 {
+  font-weight: 600;
+}
+.boldlvl7 {
+  font-weight: 700;
+}
+.boldlvl8 {
+  font-weight: 800;
+}
+.boldlvl9 {
+  font-weight: 900;
+}
+
+.small {
+  font-size: 1.4rem;
+}
+.medium {
+  font-size: 1.7rem;
+}
+.big {
+  font-size: 2.4rem;
+}
+
+
+.white {
+  color: #FFF
+}

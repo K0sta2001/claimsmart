@@ -1,0 +1,66 @@
+.hover-fade:hover {
+  opacity: 0.9;
+}
+
+/* keyframes */
+
+@keyframes wiggle {
+  0% {
+    transform: translateX(0px);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+.animation-wiggle:hover {
+  animation: wiggle 1.7s infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animation-spin {
+  animation: spin 3s infinite;
+}
+
+@keyframes grow {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animation-grow {
+  animation: grow 3s infinite;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.75;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animation-fade {
+  animation: fade 3s infinite;
+}

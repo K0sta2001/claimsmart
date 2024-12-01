@@ -1,0 +1,48 @@
+@import url("../../variables/color.css");
+
+#form {
+  background-color: var(--TBC-DEEP);
+  min-width: 350px;
+  max-width: 410px;
+  width: 70vw;
+  padding: 15px 12px 38px 31px;
+  box-sizing: border-box;
+  border-radius: 9px;
+  row-gap: 11px;
+  margin-top: 90px;
+}
+
+#form * {
+  margin: 0;
+}
+
+#form input {
+  margin-top: 15px;
+  background-color: var(--TBC-PROMPT);
+  border: none;
+  border-radius: 6px;
+  height: 45px;
+  user-select: text;
+  width: 90%;
+  padding: 5px 9px 0 13px;
+  outline: none;
+  font-size: 16px;
+}
+#form input::placeholder {
+  font-size: 14px;
+}
+
+#form button {
+  background-color: white;
+  border: none;
+  border-radius: 6px;
+  height: 45px;
+  width: 90%;
+  color: var(--TBC-BLACK);
+  font-size: 15px;
+  cursor: pointer;
+  transform: translateX(-3px);
+}
+#form button:hover {
+  opacity: 0.9;
+}

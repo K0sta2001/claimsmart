@@ -1,0 +1,39 @@
+#insurances {
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+#insurances a {
+  padding: 13px 30px 13px 30px;
+}
+.success-message {
+  color: green;
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: center;
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.55;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animation-fade {
+  animation: fade 3s infinite;
+}

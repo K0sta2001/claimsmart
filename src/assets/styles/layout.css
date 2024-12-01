@@ -1,0 +1,82 @@
+#App-layout {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.space-between {
+  justify-content: space-between;
+}
+.end {
+  justify-content: end;
+}
+.items-center {
+  align-items: center;
+}
+.none {
+  display: none;
+}
+
+.self-start {
+  align-self: start;
+}
+.self-center {
+  align-self: center;
+}
+.self-end {
+  align-self: end;
+}
+
+.gap-small {
+  gap: 8px;
+}
+.gap-medium {
+  gap: 13px;
+}
+.gap-large {
+  gap: 18px;
+}
+
+.tighten-padding {
+  padding: 0 8px 9px 8px;
+}
+.radius100 {
+  border-radius: 100%;
+}
+
+.invert {
+  transform: scaleX(-1);
+}
+
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
+
+.z-null {
+  z-index: 0;
+}
+.z-low {
+  z-index: 5;
+}
+.z-medium {
+  z-index: 10;
+}
+.z-high {
+  z-index: 15;
+}
+
+.fill {
+  width: 100%
+}

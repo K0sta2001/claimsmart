@@ -1,0 +1,54 @@
+@import url("../variables/color.css");
+
+#insurance {
+  max-width: 200px;
+  padding: 15px 20px 15px 20px;
+  background-color: var(--TBC-PROMPT);
+  border-radius: 14px;
+  position: relative;
+}
+#insurance * {
+  margin: 0;
+}
+#insurance button {
+  background: white;
+  border: none;
+  border-radius: 6px;
+  padding: 9px 30px 9px 30px;
+  margin-top: 10px;
+}
+#insurance button:hover {
+  opacity: 0.6;
+}
+
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.popup-content {
+  background: white;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  padding: 15px 10px 15px 10px;
+}
+.popup-content li,
+.popup-content li,
+.popup-content strong {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 550px) {
+  #insurances {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,23 @@
+@import url("../../variables/color.css");
+
+#header {
+  border-bottom: 1px solid var(--TBC);
+  width: 100%;
+}
+#header p {
+  max-width: 210px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+#AI {
+  width: 50px;
+}
+
+@media screen and (max-width: 500px) {
+  #user-profile {
+    flex-direction: column-reverse;
+    gap: 0;
+    align-items: flex-end;
+  }
+}
