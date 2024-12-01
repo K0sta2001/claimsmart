@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teona-439202",
+  "private_key_id": "896acc95da7069c596f1f1610df8e66ab944965a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb4mBA39fIr7a1\nBpcV7aX0mlr01hg0DxhSmH67Brz4Gn/Qotmyh8L2XAjZzwfOI21upuR33qNYt3Tp\n/TszfyzVhQskvEEzsqfZz51ZmJuubmzYHLh7dpUcSuC/wH5De4H5CtQySrF3xXo1\nUbB3g73OUwn8qORXIOfazITBj9m93NkqiMH5xd64pb+mAjt1+cwsGK+gdsw3zUao\ng3YkXWJlY63fnlAZYIYzYTrBolLNuVH7lJeRL1ZHhPMINviT9GoEDDozFV5qjrrf\nFWJqDXBcOBoG0yMVhflcMlFalVgateRKIw+YMvkoGRSorRrNRW/Xd8YJhRBcE0qZ\nBY7YA1DtAgMBAAECggEABKKR3hv0cevXm5ZbPl8B75NPX7b7TUD4UNcRSEUGWrze\n+WMo5J1ozKPRQjiyW2IY9OX9e8Wg8cMICj+/V46mf0rPbq4yT3PhIyGAj5NxaERc\nSX4WdjABIFrm8oyqCcj4WmFaDIzFWMcEapAdQSXSVPo0cnt1yVQZ0MWtWjFey2hj\nzI5z9+xArptT0Si4m3RkZzsLzX73s6VrabyjVZE8QjIN32FbIQfFlvzr3R5fUKsU\nNIkY+AhDp7mFnUyZhg7xJPhyzxQ0EiEYjGzqUIGSzwaHA2U8lBC27bYE5KO0f03m\n9C/9h+VedJnebqrFmJaBLYQYac/sr+nXkfIFcHiXOQKBgQDOQ5MXFa2mrIxcUM+A\n527sQxSzmXm97loiIC9IlYq8c3Gg5IzdZkbVw/MGGBGd6QrYcPBBjN2H/ajWuIZX\n2PnoemHJypq7EHbV6EuznGq+6zha8lpYVCESwdQUOtSarnIZ2sqrfqycFPK4rPpD\njoXDd2TP6pmLVagdI43gBaSEKwKBgQDBeOyqUO3WdNhY2MMX5TRGhHUA8r5djg3C\ndvskbCdGSyZT6IPDItLBJqvAQvoCh1sR+80J730GQR9I3q6XzFiV3jw0CgVkExY6\nmAH86gbNCdPzYEjNCWQoO6fnHsxqACMWy0TlvCHzBJGZIdA7yPBPzJhbYHlV7Xnf\nGf+wmKZ7RwKBgQCkRddI5GAHxZaIE2gfzrJeAlLjcxEtfj5UvXNLCKaUzhCqRjwW\nPFWf/E56BQNK04ZquQ/v9OOeYhxs3ktIfasTRxzInM68uzEZzcc0xheR9D5O2IOx\no1cv3CUu82fNxa9j/ge5q8qHCHwDLuimk0TfVyB4IuykttSMWHuu9m9/PwKBgFr1\n228HtYpKTR0YbEDjxfwRcmELv2yEyPtQrSqmnqBx3Ic+nhQ0XxnocH9n/dsKgEqo\nM/Ij4of6PhcoerVroYp0faGJxJcUUjMiHG0oKiJkKH4YGqIrdCdmRL5owHplrhmd\nX7sTBHMZBssUFq7E/hbGfisX5HP9vnqh4pDIdB0pAoGANf5HzQWZoYvUXONjzouZ\nZ5yAXz8d6EYe6tmHHIUTQxDGMOOolEqv5RqwPYytv22kUAyHMXZshJP7XV3Dl3jR\nXjCP8ZtIU+W95AKvRntJC+3R6DJA4ARKmjJlQdqLN9O2CofS2Wjw+B+rWzCGsr9+\nQXCkFI34IXiMFJhfcewZtqc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teona-273@teona-439202.iam.gserviceaccount.com",
+  "client_id": "110105022661929191369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teona-273%40teona-439202.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
